@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="app_title">Example Timer and Sound Player</string>
+    <string name="app_test_button">New Activity</string>
+</resources>
